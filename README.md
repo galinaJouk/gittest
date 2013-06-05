@@ -1,4 +1,4 @@
 gittest
 =======
 
-test git repository
+A first github repository to demonstrate git
